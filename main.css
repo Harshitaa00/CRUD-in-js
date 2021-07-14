@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.container{
+    padding-top: 30px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.heading{
+    color:#fff;
+    background: #337ab7;
+    text-transform: uppercase;
+    padding: 20px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.form-control{
+    background: mintcream;
+    border-radius:0px;
+    font-size: 18px; 
+    height: 25px; 
+    width : 500px
+}
+.btn{
+    border-radius: 0px;
+    width: 120px;
+    background: cornsilk;
+    margin-left: 140px;
+    
+}
+
+.btn btn-success{
+    padding-right:100px;
+}
